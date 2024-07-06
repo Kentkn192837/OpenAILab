@@ -1,0 +1,8 @@
+jupyterlab
+matplotlib
+seaborn
+opencv-contrib-python
+scikit-learn
+scikit-image
+graphviz
+pydot

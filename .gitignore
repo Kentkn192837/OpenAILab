@@ -1,0 +1,18 @@
+Images
+Results
+deletedData
+logs
+config
+address
+
+# for ipynb
+.ipynb_checkpoints
+
+# for Python
+__pycache__
+
+# Docker Image binaryfile
+*.tar
+
+# backup files
+*.backup

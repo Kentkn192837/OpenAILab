@@ -1,8 +1,8 @@
 jupyterlab
+numpy
 matplotlib
 seaborn
 opencv-contrib-python
 scikit-learn
-scikit-image
-graphviz
-pydot
+openai
+pytest
